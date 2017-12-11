@@ -1,0 +1,63 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+}
+
+header{
+color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+#intro{
+	background-color: #4C4C4C;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 150px 0;
+	background-image:url(../template-onepage/img/fondo.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#logo{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#intro h1{
+	color: #FFFFFF;
+	font-weight: 800;
+	font-size: 70px;
+	padding-top: 300px;
+}
+#cuadro{
+	background: #cba006;
+	box-shadow: 0 1px 5px -1px #9c9c9c;
+	color: #fff;
+	border: none;
+}
+#acerca{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-bottom: 75px;
+	
+
+}
+#acerca h1{
+	font-size: 50px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+}
+
+#servicios{
+	text-align: center;
+	background-color: #4C4C4C;
+	padding-bottom: 75px;
+}
+#servicios h1{
+	font-size: 50px;
+	padding-top: 0px;
+	padding-bottom: 1px;
+}
+i .fa-laptop{
+	color: #FFFFFF;
+}
